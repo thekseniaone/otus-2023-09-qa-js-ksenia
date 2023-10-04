@@ -2,7 +2,7 @@
 
 Project description for test
 
-## whaaaaaaat I don't understand anything
--1
--2
--3
+## I think now I understand something
+- 1
+- 2
+- 3
